@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Teacher to Software Engineer: Starting my second career"
-date:       2020-08-17 16:44:24 +0000
+date:       2020-08-17 12:44:25 -0400
 permalink:  teacher_to_software_engineer_starting_my_second_career
 ---
 
