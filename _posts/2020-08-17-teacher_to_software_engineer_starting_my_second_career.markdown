@@ -1,0 +1,9 @@
+---
+layout: post
+title:      "Teacher to Software Engineer: Starting my second career"
+date:       2020-08-17 16:44:24 +0000
+permalink:  teacher_to_software_engineer_starting_my_second_career
+---
+
+
+I am so excited to enter the field of technology. I chose Software Engineering for many reasons.  I have always had a passion for technology since I was a kid. As I got older, I became curious about how the applications and websites are created. In college, I worked towards receiving an Instructional Technology Certification, that I was able to add on to my Educational Degree. It was then that I started to realize the impact technology could have in a classroom. I hope to develop educational websites that help promote distance learning engagement. Through the COVID-19 crisis, I had a harsh awakening to the reality of distance learning. Distance learning often involves multiple hurdles that parents, teachers, and schools have to jump to succeed. One of the most significant predicaments for everyone ends up being educational websites.  There is an abundance of online learning programs available, but so many of them fall short. The majority of teachers I have interacted with end up using a combination of 2-5 sites. While that doesn't seem like a lot of websites, it is overwhelming for everyone involved. Managing multiple logins, ensuring consistent access, and possibly having more than one kid in a home, 2-5 sites turn into a pile of problems. Teachers often look for five main things on an educational website: a manageable teacher dashboard, concise and colorful instructional videos, fun and interactive games, easy communication tools, and an interactive engagement tracker. While that list is simplified, it is a checklist that teachers mentally go through when evaluating a site they plan to use. I want to create a website that checks every box. I want to be the person that creates a website that is by teachers for teachers. 
