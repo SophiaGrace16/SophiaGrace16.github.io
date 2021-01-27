@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Debugger and Pry"
-date:       2020-12-14 02:34:36 +0000
+date:       2020-12-13 21:34:37 -0500
 permalink:  debugger_and_pry
 ---
 
