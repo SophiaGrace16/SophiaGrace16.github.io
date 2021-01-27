@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Magic of CSS Grids"
-date:       2021-01-27 19:39:12 +0000
+date:       2021-01-27 14:39:13 -0500
 permalink:  the_magic_of_css_grids
 ---
 
@@ -42,8 +42,7 @@ This value causes an element to generate a grid container box that is inline-lev
 
 If you are like me and prefer a visual comparison, this codepen.io does a phenomenal job showing the difference!
 
-{% codepen https://codepen.io/webmadewell/pen/PRGaVM %}
-source: https://codepen.io/webmadewell/pen/PRGaVM
+ https://codepen.io/webmadewell/pen/PRGaVM
 
 ### grid-template-columns: 1fr 1fr 1fr;
 
