@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Let’s Talk Class Components"
-date:       2021-01-24 23:22:23 +0000
+title:      "Class Components"
+date:       2021-01-24 18:22:24 -0500
 permalink:  let_s_talk_class_components
 ---
 
