@@ -63,14 +63,14 @@ Width is the width of the grid! I use percentages here so that the grid is respo
 
 If you would like to continue learning about CSS grids and the different attributes, you can give them below are some articles to continue your learning:
 
-https://webmadewell.com/css-grid-basic-display-grid/
+[https://webmadewell.com/css-grid-basic-display-grid//](https://webmadewell.com/css-grid-basic-display-grid//)
 
-https://css-tricks.com/snippets/css/complete-guide-grid/
+[https://css-tricks.com/snippets/css/complete-guide-grid/](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout
+[https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
 
-https://www.w3.org/TR/css3-grid/#grid-containers
+[https://www.w3.org/TR/css3-grid/#grid-containers]https://www.w3.org/TR/css3-grid/#grid-containers)
 
 Devtools:
 
-https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_grid_layouts
+[https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_grid_layouts](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_grid_layouts)
