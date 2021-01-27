@@ -8,7 +8,7 @@ permalink:  debugger_and_pry
 
 One of the pinnacles of coding is learning how to effectively use debugger and pry to debunk any issues in your code. In this blog we are going to look at the pros and cons of using debugger and pry. 
 
-## Pry
+### Pry
 
 Pry is a gem that can quickly become an integral part of discovering where your code is going wrong. I utilize it frequently when testing my backend and controllers that work with my frontend. Kicking up pry in an application is pretty easy and user friendly. Your first step is to make sure you have included pry in your gemfile and updating your bundle if your filetree includes a gemfile.lock:
 
@@ -35,8 +35,7 @@ def index
 I do this for a few reasons, the first of which is because I am still learning how to best use Pry. It helps me to practice pulling data in a few places. If you are well accquainted with Pry, you'll know that the first pry will only show me the *incoming* data. If I were to call @movie in the pry console it wouldn't return anything because we haven't hit that point in the code where those values have been stored. I can test the code ```@movie = Movie.find(params[:movie_id])``` which is why that first pry is helpful, it helps me to work out my syntax to make sure I am pulling the pieces of data that I need. 
 When I hit the second pry I can check the stored values since my code is "paused" just have the variables have been assigned. This is a good spot to again confirm that the code is working the way you intend it to. But Pry is just one piece of the puzzle, in order to full work with "debugging" your code, especially when working with Javascript, you also need to utilize *debugger*.
 
-
-## Debugger
+### Debugger
 
 Debugger is a new tool that I am still learning and understanding. I have learned that, like Pry, it can be finnicky depending on where you put it. But I have also learned that it is incredibly important to use when working on debugging your fetches. Below is an example of a fetch that gave me a bit of trouble when I was working throught it.
 
