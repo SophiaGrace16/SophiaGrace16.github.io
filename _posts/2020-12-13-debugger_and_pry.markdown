@@ -31,7 +31,8 @@ def index
 
     render json: @eggs
   end
-	```
+```
+	
 I do this for a few reasons, the first of which is because I am still learning how to best use Pry. It helps me to practice pulling data in a few places. If you are well accquainted with Pry, you'll know that the first pry will only show me the *incoming* data. If I were to call @movie in the pry console it wouldn't return anything because we haven't hit that point in the code where those values have been stored. I can test the code ```@movie = Movie.find(params[:movie_id])``` which is why that first pry is helpful, it helps me to work out my syntax to make sure I am pulling the pieces of data that I need. 
 When I hit the second pry I can check the stored values since my code is "paused" just have the variables have been assigned. This is a good spot to again confirm that the code is working the way you intend it to. But Pry is just one piece of the puzzle, in order to full work with "debugging" your code, especially when working with Javascript, you also need to utilize *debugger*.
 
